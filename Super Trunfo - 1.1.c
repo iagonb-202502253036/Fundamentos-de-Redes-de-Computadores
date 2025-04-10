@@ -1,12 +1,6 @@
 #include <stdio.h>
 
 int main() {
-// Uma letra de A até H
-// Código da cidade A01 até D04
-// Nome da cidade
-// População da cidade
-// Km² da cidade
-// PIB
 
 char letra1, letra2;
 char codigo1[50], codigo2[50];
@@ -28,7 +22,6 @@ printf("\n");
 printf("Pressione Enter para sair...");
 getchar();
 getchar();
-
 
 return 0;
 
